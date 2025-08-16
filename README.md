@@ -3,12 +3,12 @@ It is a problem-solutions repository,which contains codeforces , atcoder and so 
 
 
 
-# CfAtc-Training-Journey
+
 
 My competitive programming journey focusing on Codeforces and AtCoder platforms.
 
 ## 🚀 What's Inside
-- **Solutions**: CF & AC problem solutions with detailed comments
+- **Solutions**: CF & ATC problem solutions with detailed comments
 - **Templates**: Algorithm implementations and data structure library
 - **Progress Tracking**: Regular code reviews and rating improvements
 - **Problem Indexing**: Similar problem cross-references for pattern learning
@@ -27,12 +27,12 @@ Weekly reviews • Template updates • Pattern recognition • Continuous impro
 
 
 
-# CfAtc-Training-Journey
+
 
 专注于Codeforces和AtCoder平台的竞技编程学习之旅。
 
 ## 🚀 仓库内容
-- **题解**：CF & AC平台题目解答，附详细注释
+- **题解**：CF & ATC平台题目解答，附详细注释
 - **模板库**：算法实现和数据结构代码库
 - **进度跟踪**：定期代码回顾和Rating提升记录
 - **题目索引**：相似题目关联，助力模式学习
