@@ -1,50 +1,25 @@
-# CfAtc-Training-Journey
-It is a problem-solutions repository,which contains codeforces , atcoder and so on.I would like to show my code which solved some problems.
+# CfAtc-训练之路
 
-
-
-
-
-My competitive programming journey focusing on Codeforces and AtCoder platforms.
-
-## 🚀 What's Inside
-- **Solutions**: CF & ATC problem solutions with detailed comments
-- **Templates**: Algorithm implementations and data structure library
-- **Progress Tracking**: Regular code reviews and rating improvements
-- **Problem Indexing**: Similar problem cross-references for pattern learning
-- **Learning Notes**: Mistake analysis and debugging insights
-
-## 🎯 Focus Areas
-- **Dynamic Programming**: Classic DP patterns and optimization techniques
-- **Graph Theory**: BFS/DFS, shortest paths, and advanced graph algorithms
-- **Data Structures**: Segment trees, Fenwick trees, and custom implementations
-- **Mathematical**: Number theory, combinatorics, and computational geometry
-
-## 🔄 Learning System
-Weekly reviews • Template updates • Pattern recognition • Continuous improvement
-
-*From beginner to expert, one contest at a time.*
-
-
-
-
+这是一个算法题解仓库，包含Codeforces、AtCoder等平台的解题代码。记录我在竞技编程道路上的成长历程。
 
 专注于Codeforces和AtCoder平台的竞技编程学习之旅。
 
 ## 🚀 仓库内容
-- **题解**：CF & ATC平台题目解答，附详细注释
-- **模板库**：算法实现和数据结构代码库
-- **进度跟踪**：定期代码回顾和Rating提升记录
-- **题目索引**：相似题目关联，助力模式学习
-- **学习笔记**：错误分析和调试心得
 
-## 🎯 重点领域
-- **动态规划**：经典DP模式和优化技巧
-- **图论算法**：BFS/DFS、最短路径和高级图算法
-- **数据结构**：线段树、树状数组和自定义实现
-- **数学算法**：数论、组合数学和计算几何
+- **题解代码**：CF & ATC平台题目解答，附详细中文注释
+- **算法模板**：常用算法实现和数据结构代码库
+- **进度记录**：定期代码回顾和Rating提升轨迹
+- **题目分类**：相似题目交叉索引，助力解题模式学习
+- **学习笔记**：做题心得、错误分析和调试技巧总结
 
-## 🔄 学习体系
-每周回顾 • 模板更新 • 模式识别 • 持续改进
+## 🎯 核心专攻方向
 
-*从新手到专家，一场比赛一个进步。*
+- **动态规划**：经典DP状态转移模式和空间时间优化技巧
+- **图论算法**：BFS/DFS遍历、最短路径算法和高级图论专题
+- **数据结构**：线段树、树状数组、并查集等高级数据结构实现
+- **数学专题**：数论算法、组合数学、计算几何和概率统计
+
+## 🔄 系统化学习方法
+
+每周题解回顾 • 算法模板维护 • 解题模式总结 • 持续能力提升
+
