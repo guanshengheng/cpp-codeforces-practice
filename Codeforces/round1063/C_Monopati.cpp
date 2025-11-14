@@ -2,6 +2,14 @@
 using namespace std;
 typedef long long ll;
 using pii = pair<int, int>;
+
+//是一道双指针的问题
+//首先读取输入
+//然后存每个元素所在的位置，一种类似邻接表的结构将相同大小的元素链在一起
+//遍历增加r，当前r如果满足则更大的r也会满足
+//对于题目要求联通，可以转化成第一行前缀数组0-r1保持联通，第二行r2-n保持联通，且r1>=r2
+//增加l，直到不符合条件结束，ans+=(l-1)
+
 void solve()
 {
     int n;
